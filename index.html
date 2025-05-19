@@ -1,27 +1,13 @@
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Jorge’s Photography</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Welcome to My Photography Blog</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="gallery.html">Gallery</a>
-    </nav>
-  </header>
+---
+title: Joyful Science
+layout: layout.html
+---
+Welcome to a personal website, where I talk about research and showcase some 
+of my most recent shots!
 
-  <main>
-    <p>Hi, I’m Jorge. I capture moments, light, and stories through my lens.</p>
-  </main>
+<img src="/photos/blue_green.jpg" alt="cover"/>
 
-  <footer>
-    <p>&copy; 2025 Jorge Martinez-Ortiz</p>
-  </footer>
-</body>
-</html>
+{% for post in collections.post %}
+<h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+<p>{{post.content}}</p>
+{% endfor %}
