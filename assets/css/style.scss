@@ -207,9 +207,10 @@ code {
 }
 
 .cv-content {
-  h3 {
+  h3, .institution-name {
     margin-top: 0;
-    font-size: 1.2rem;
+    margin-bottom: 5px;
+    font-size: 1.1rem;
     color: var(--deep-earth);
   }
 
