@@ -1,0 +1,173 @@
+basics: 
+  name: Jorge Augusto Martínez-Ortiz
+  label: "PhD Student / Developer"
+  email: martjor@msu.edu 
+  website: https://martjor.github.io
+  research_interests: "Machine Learning and Agent-Based Models for Data-Driven Simulation of Complex Systems."
+
+education: 
+  - institution: Michigan State University 
+    location: "East Lansing, MI"
+    degree: "PhD: Computational Mathematics, Science and Engineering"
+    date: "Aug. 2023-May 2028 (expected)"
+
+  - institution: Baylor University 
+    location: "Waco, TX"
+    degree: "BS: Computational Physics"
+    date: "Aug. 2021-May 2023"
+
+employment:
+  - position: Graduate Research Assistant
+    department: "Department of Computational Mathematics, Science and Engineering"
+    institution: Michigan State University 
+    location: "East Lansing, MI"
+    date: "Aug. 2023-Present"
+    address: "428 South Shaw Lane 1501 Engineering Building, East Lansing, MI 48824"
+    supervisor: "Michael S. Murillo"
+
+  - position: Graduate Research Intern
+    department: "A-1 Group: Information Systems & Modeling"
+    institution: Los Alamos National Laboratory
+    location: "Los Alamos, NM"
+    date: "May 2024-Aug. 2024"
+    address: "Bikini Atoll Rd, Los Alamos, NM, United States, 87545"
+    supervisor: "Katy M. Martinez"
+
+  - position: Undergraduate Tutor
+    department: "Center for Academic Success and Engagement"
+    institution: Baylor University 
+    location: "Waco, TX"
+    date: "Aug. 2021-May 2023"
+    address: "1410 S 3rd St, Waco, TX 76798"
+    supervisor: "Melanie Briscoe"
+
+  - position: Undergraduate Research Assistant
+    department: "Center for Astrophysics, Space Physics and Engineering Research"
+    institution: Baylor University 
+    location: "Waco, TX"
+    date: "May 2021-May 2023"
+    address: "100 Research Pkwy, Waco, TX 76704"
+    supervisor: "Lorin S. Matthews"
+
+research:
+  - role: "Graduate Research Intern"
+    institution: Los Alamos National Laboratory
+    pis: "Jim H. Cooley and Katy M. Martinez"
+    location: "Los Alamos, NM"
+    date: "May 2024-Present"
+    highlights:
+      - "Formulated and tested a family of mathematical models of asymmetric conflict to explicitly account for the psychology and adaptation of agents"
+      - "Developed and implemented Python analysis tools that leverage unsupervised machine learning approaches to facilitate model calibration and verification"
+      - "Designed efficient modeling workflows to speed up the process of formulating, testing and deploying a model"
+
+  - role: "Graduate Research Assistant"
+    institution: Michigan State University
+    pis: "Michael S. Murillo"
+    location: "East Lansing, MI"
+    date: "Aug. 2023-Present"
+    highlights:
+      - "Developed novel structure-preserving optimization approaches to the reduction of large network datasets"
+      - "Collaborated on the design of efficient AI and data-driven workflows for fast and reliable high-throughput computing"
+
+  - role: "Undergraduate Research Assistant"
+    institution: Baylor University
+    pis: "Lorin S. Matthews and Truell W. Hyde"
+    location: "Waco, TX"
+    date: "Aug. 2021-May 2023"
+    highlights:
+      - "Designed MATLAB-C++ hybrid software to enable high-throughput simulation and in-situ visualization of dusty plasmas"
+      - "Created and maintained image and video processing workflows for the analysis of experimental dusty plasma data"
+
+publications:
+  - authors: "Watson, Zachary, Parker Adamson, Jorge Martinez-Ortiz, Katrina Vermillion, Calvin Carmichael, Samuel Garcia-Rodriguez, Lorin Matthews, Truell Hyde, and Bryant Wyatt."
+    title: "“N-Body Simulation of Spinning Particle Pairs in a Complex Plasma Crystal.”"
+    journal: "Fundamental Plasma Physics 13 (March 1, 2025): 100082."
+    link: "https://doi.org/10.1016/j.fpp.2024.100082"
+
+  - authors: "Carmichael, Calvin, Jorge Martinez-Ortiz, Parker Adamson, Lorin Matthews, and Truell Hyde."
+    title: "“Energy Amplification in Plasma Crystals Due to Multiple Torsions.”"
+    journal: "Physics of Plasmas 31, no. 12 (December 4, 2024): 123702."
+    link: "https://doi.org/10.1063/5.0241576"
+
+  - authors: "Carmichael, Calvin, Jorge Martinez-Ortiz, Parker Adamson, Lorin Matthews, and Truell Hyde."
+    title: "“Rotating Particle Pair Produces Hot Complex Plasma Crystals.”"
+    journal: "Physical Review E 110, no. 2 (August 22, 2024): 025205."
+    link: "https://doi.org/10.1103/PhysRevE.110.025205"
+
+conferences:
+  - title: "Dimensionality Reduction of Large Network Datasets using Parallel Tempering"
+    organization: "SIAM CSE 2025"
+    date: "Mar. 2025"
+    type: "Poster"
+  - title: "Miniaturizing Large Network Datasets for Simulation"
+    organization: "2024 AGEP Student Success Conference"
+    date: "Aug. 2024"
+    type: "Poster"
+  - title: "SalSA: Stratigic and Logistic Sandbox for the Modeling of Conflict"
+    organization: "Los Alamos National Laboratory 2023 Student Symposium"
+    date: "Jul. 2023"
+    type: "Poster"
+  - title: "Study of mode-coupling instabilities in a plasma crystal using n-body simulations"
+    organization: "American Physical Society, Division of Plasma Physics 64th Annual Meeting"
+    date: "Aug. 2022"
+    type: "Poster"
+  - title: "GPU-accelerated n-body simulation of spinning particle pairs in complex plasma crystals"
+    organization: "Mathematical Association of America 101st Annual Meeting"
+    date: "Mar. 2022"
+    type: "Presentation"
+  - title: "Dynamic modeling of spinning particle pairs in a complex plasma using NVIDIA GPUs"
+    organization: "Nvidia GPU Technology Conference (GTC)"
+    date: "Mar. 2022"
+    type: "Presentation"
+  - title: "Digital representation of fine-grained rim analogs using image processing"
+    organization: "American Physical Society, Division of Plasma Physics 63rd Annual Meeting"
+    date: "Nov. 2021"
+    type: "Presentation"
+  - title: "Digital representation of fine-grained rim analogs using image processing"
+    organization: "American Astronomical Society, Division for Planetary Sciences 53rd Annual Meeting"
+    date: "Oct. 2021"
+    type: "Presentation"
+
+awards:
+  - title: "3rd Best Graduate Student Poster Presentation"
+    organization: "2024 AGEP Student Success Conference"
+    date: "Oct. 2024"
+  - title: "Postdoc/Graduate Division Poster Presentation People’s Choice Award"
+    organization: "2024 AGEP Student Success Conference"
+    date: "Oct. 2024"
+
+teaching:
+  - role: "Physics and Mathematics Undergraduate Tutor"
+    institution: "Baylor University"
+    department: "Center for Academic Success and Engagement"
+    date: "Aug. 2021-May 2023"
+    highlights:
+      - "Conducted weekly study sessions for introductory undergraduate physics and mathematics courses"
+      - "Supervised the creation of handouts and study resources provided by the tutoring services to undergraduates"
+      - "Provided one-on-one tutoring to students enrolled in introductory physics and mathematics courses"
+
+coursework:
+  - institution: "Michigan State University"
+    courses:
+      - "GEO 869 Agent-Based Modeling"
+      - "CMSE 890 Selected Topics: Applied Machine Learning"
+      - "STT 881 Theory of Probability I"
+      - "ECE 855 Non-Cooperative Game Theory"
+      - "CMSE 890 Selected Topics: Reproducible Computational Workflows"
+      - "CMSE 820 Mathematical Foundations of Data Science"
+      - "CMSE 822 Parallel Computing"
+      - "CMSE 821 Numerical Methods for Differential Equations"
+      - "CMSE 823 Numerical Linear Algebra"
+  - institution: "Baylor University"
+    courses:
+      - "MTH 4328 Numerical Linear Algebra"
+      - "PHY 4360 Computer Models in Physics"
+      - "PHY 4340 Statistical and Thermal Physics"
+
+languages:
+  - language: "Spanish"
+    fluency: "Native"
+  - language: "English"
+    fluency: "Full Professional Proficiency"
+  - language: "German"
+    fluency: "Conversational"
